@@ -1,3 +1,30 @@
+# Chuck Norris Jokes App
+
+Chuck Norris Jokes App is a fun and interactive web application that allows users to explore Chuck Norris jokes by category. Users can click on a category to view a random joke from that category and fetch new jokes with a single click. The app utilizes the Chuck Norris Jokes API to provide a wide range of humorous content.
+
+
+
+## Features
+
+- Browse Chuck Norris jokes by category.
+- View a random joke from a selected category.
+- Fetch a new random joke for the same category.
+- Responsive and user-friendly design.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (at least version 12.0.0)
+- NPM (Node Package Manager)
+
+### Installation
+
+1. Clone the repository:
+
+```sh
+git clone https://github.com/your-username/chuck-norris-jokes-app.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
