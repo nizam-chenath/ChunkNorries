@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ChunkNorries/static/css/main.0c95452e.css",
-    "main.js": "/ChunkNorries/static/js/main.65e72076.js",
-    "index.html": "/ChunkNorries/index.html",
-    "main.0c95452e.css.map": "/ChunkNorries/static/css/main.0c95452e.css.map",
-    "main.65e72076.js.map": "/ChunkNorries/static/js/main.65e72076.js.map"
+    "main.css": "/ChukNorries/static/css/main.0c95452e.css",
+    "main.js": "/ChukNorries/static/js/main.65e72076.js",
+    "index.html": "/ChukNorries/index.html",
+    "main.0c95452e.css.map": "/ChukNorries/static/css/main.0c95452e.css.map",
+    "main.65e72076.js.map": "/ChukNorries/static/js/main.65e72076.js.map"
   },
   "entrypoints": [
     "static/css/main.0c95452e.css",
